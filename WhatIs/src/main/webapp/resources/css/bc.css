@@ -1,0 +1,51 @@
+@CHARSET "UTF-8";
+	body{
+	
+	 background:url('https://vignette1.wikia.nocookie.net/leagueoflegends/images/7/73/Summoners_Rift_landscape_02.jpg/revision/latest/scale-to-width-down/2000?cb=20170303044632') no-repeat center center fixed ;
+	}
+	#div
+	{
+	
+		width: 850px;
+		margin: auto;	
+		
+	}
+	table
+	{
+		
+		background-color: #e1eaea;
+		border: 1px solid gray;
+		width: 850px;
+		margin: auto;	
+		
+	}
+	.reply{
+		width: 500px;
+		margin: auto;
+		border-collapse: collapse;
+	}
+	h2
+	{
+		text-align: center;
+	}
+	
+	img{
+		width: 100%;
+		height: 300px;
+	}
+	#navigator{
+		margin-left: 350px;
+	}
+	#seach{
+		margin-left: 250px;
+	}
+	#b{
+		margin-left: 350px;
+	}
+	#line{
+		margin-left: 330px;
+	}
+	#replyT{
+		margin-left: 480px;
+	}
+	

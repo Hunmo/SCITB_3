@@ -1,0 +1,41 @@
+@CHARSET "UTF-8";
+	#backg{
+		  
+		  background:url('http://upload.inven.co.kr/upload/2012/09/23/bbs/i2785354512.jpg') no-repeat center center fixed ;
+		
+		}	
+	
+		#div
+		{
+		
+		width: 500px;
+		margin: auto;	
+		margin-top: 400px;
+		border: 1px solid gray;
+		
+		}
+		h1
+		{
+		text-align: center;
+		opacity: 0.5;
+		
+		}
+		a
+		{
+			color : white;
+			text-decoration: none;
+		}
+		a:HOVER {
+			color: teal;	
+		}
+		img{
+			height: 200px;
+		}
+		ol{	
+			font-size: 25px;
+			text-align: center;
+		}
+		p{
+			color : white;
+			font-size: 25px;
+		}

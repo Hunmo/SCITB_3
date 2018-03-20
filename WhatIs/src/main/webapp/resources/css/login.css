@@ -1,0 +1,27 @@
+@CHARSET "UTF-8";
+
+   .backg{
+		
+		background:url('https://pbs.twimg.com/media/DN-H-nRVAAAZ8H6.jpg') no-repeat center center fixed;
+		}
+
+	h2{
+		
+		color : black;
+		text-align: center;
+	}
+	
+	.div
+	{	position: absolute;
+		margin-top:250px;
+		margin-left:930px;
+		width: 300px;
+		height:650px;
+	}
+	.button{
+		margin-left:100px;
+	}
+	
+		
+		
+		
